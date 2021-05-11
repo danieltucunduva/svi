@@ -86,7 +86,7 @@ They all can get the job done.
 Given that we can pick between languages, it follows that only one choice is optimal: sticking with the same language
 that we already use in the front end, **JavaScript**.
 
-Implementing all of our software systems in a uniform language will provide substantial benefits in reducing development
+Implementing all of our software systems in a uniform language will provide substantial benefits by reducing development
 time, facilitating recruitment, and reducing onboarding time externally and internally, as already noted.
 
 JavaScript offers many options of frameworks for back end development, but there is a clear market
