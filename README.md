@@ -22,7 +22,7 @@ link).
 
 ### Efficiency of maintenance and future development
 
-Our websites have been constructed as a patchwork of several frameworks and programming languages, and includes outdated
+Our websites have been constructed as a patchwork of several programming languages and frameworks, including outdated
 technologies. (TODO list them?).
 
 As SVI is not a software company, using a uniform and modern technology stack would greatly reduce developer hours for
