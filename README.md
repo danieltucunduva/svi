@@ -21,7 +21,6 @@ link).
 <img alt="Core Web Vitals" width="800" src="https://addyosmani.com/assets/images/core-web-vitals-addy.png">
 
 <br>
-<br>
 
 ### Efficiency of maintenance and future development
 
