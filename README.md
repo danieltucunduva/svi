@@ -18,7 +18,7 @@ Several of our websites and pages are currently at "needs improvement" and "poor
 Google is not yet using the scores as an influence factor for page ranking, but plans to do so in the near future (TODO
 link).
 
-<img alt="Core Web Vitals" width="800" src="https://addyosmani.com/assets/images/core-web-vitals-addy.png">
+<img alt="Core Web Vitals" width="600" src="https://addyosmani.com/assets/images/core-web-vitals-addy.png">
 
 <br>
 
