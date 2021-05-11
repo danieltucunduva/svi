@@ -20,8 +20,6 @@ link).
 
 <img alt="Core Web Vitals" width="600" src="https://addyosmani.com/assets/images/core-web-vitals-addy.png">
 
-<br>
-
 ### Efficiency of maintenance and future development
 
 Our websites have been constructed as a patchwork of several frameworks and programming languages, and includes outdated
