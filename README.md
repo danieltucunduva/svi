@@ -69,6 +69,9 @@ Companies that use React:
 * Reddit
 * ...
 
+[What And Why React.js](https://www.c-sharpcorner.com/article/what-and-why-reactjs/#:~:text=React.js%20is%20an%20open-source%20JavaScript%20library%20that%20is,Jordan%20Walke%2C%20a%20software%20engineer%20working%20for%20Facebook.)  
+[React Popularity and When Not to Use React](https://scotch.io/starters/react/react-popularity-and-when-not-to-use-react#toc-when-not-to-use-react)
+
 #### Back end
 
 Regarding the back end, there are several programming languages and frameworks available, including JavaScript, Python,
@@ -100,6 +103,9 @@ Companies that use Node.js:
 * Medium
 * ...
 
+[Why Choose Node JS For Your Next Project?](https://thebroodle.com/web/why-choose-node-js-for-your-next-project/)  
+[Why and When to Use Node.js?](https://relevant.software/blog/why-and-when-to-use-node-js/)
+
 #### No-code technologies and content management systems
 
 In addition to traditional front and back ends written by software developers, the latest addition to modern technology stacks are no-code tools, that allow visual changes to be made directly by non-technical contributors.  
@@ -120,6 +126,9 @@ Companies that use WebFlow:
 * Lattice
 * Petal
 * ...
+
+[Why Webflow Is the Best Web Design Program Right Now](https://blog.prototypr.io/why-webflow-is-the-best-web-design-program-right-now-f128aef8b45)  
+[The Ultimate Webflow Review 2021 – a Worthy Tool or Yet Another Site Builder?](https://satoristudio.net/webflow-review/)
 
 ## Recommendations  
 
