@@ -14,13 +14,7 @@ May 11, 2021
 
 ### Opportunities for improvement in our websites
 
-Our websites present a major opportunity for improvement on two fronts: user experience and search ranking, and
-efficiency of maintenance and future development.
-
-#### User experience and search ranking
-
-On the user experience and search ranking side, the guidelines are provided by
-Google's [Core Web Vitals](https://web.dev/vitals/).
+Modern user experience guidelines are provided by Google's [Core Web Vitals](https://web.dev/vitals/).
 
 <img alt="Core Web Vitals" width="600" src="https://addyosmani.com/assets/images/core-web-vitals-addy.png">
 
