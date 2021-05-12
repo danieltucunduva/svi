@@ -25,8 +25,7 @@ Google's [Core Web Vitals](https://web.dev/vitals/).
 
 <img alt="Core Web Vitals" width="600" src="https://addyosmani.com/assets/images/core-web-vitals-addy.png">
 
-Google is not yet using the scores as an influence factor for page ranking, but plans to do so in the near future (
-insert link).
+Google is not yet using the scores as an influence factor for page ranking, but [will do so in the near future](https://searchengineland.com/google-postpones-page-experience-update-rollout-347862).
 
 User experience is vital for conversion. For instance, [up to 40% of users abandon a website](https://neilpatel.com/blog/loading-time/) that takes more than 3 seconds to load, and a 1 second delay can result in a 7% reduction in conversions.
 
