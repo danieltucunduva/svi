@@ -65,7 +65,6 @@ Companies that use React:
 * Cloudflare
 * Dropbox
 * Reddit
-* ...
 
 [What And Why React.js](https://www.c-sharpcorner.com/article/what-and-why-reactjs/#:~:text=React.js%20is%20an%20open-source%20JavaScript%20library%20that%20is,Jordan%20Walke%2C%20a%20software%20engineer%20working%20for%20Facebook.)  
 [React Popularity and When Not to Use React](https://scotch.io/starters/react/react-popularity-and-when-not-to-use-react#toc-when-not-to-use-react)
@@ -99,7 +98,6 @@ Companies that use Node.js:
 * Twitter
 * Groupon
 * Medium
-* ...
 
 [Why Choose Node JS For Your Next Project?](https://thebroodle.com/web/why-choose-node-js-for-your-next-project/)  
 [Why and When to Use Node.js?](https://relevant.software/blog/why-and-when-to-use-node-js/)
@@ -123,7 +121,6 @@ Companies that use WebFlow:
 * Freshly
 * Lattice
 * Petal
-* ...
 
 [Why Webflow Is the Best Web Design Program Right Now](https://blog.prototypr.io/why-webflow-is-the-best-web-design-program-right-now-f128aef8b45)  
 [The Ultimate Webflow Review 2021 – a Worthy Tool or Yet Another Site Builder?](https://satoristudio.net/webflow-review/)
