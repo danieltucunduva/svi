@@ -1,6 +1,6 @@
 May 11, 2021
 
-# SVI Web Technoloy Stack and Website Re-write Project
+# SVI Web Technology Stack and Website Re-write Project
 
 ## Desired outcomes
 
