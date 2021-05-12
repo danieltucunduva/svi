@@ -72,7 +72,7 @@ Companies that use React:
 #### Back end
 
 Regarding the back end, there are several programming languages and frameworks available, including JavaScript, Python,
-Ruby on Rails, PHP and others, each accompanied by one or more framework options.
+Ruby, PHP and others, each accompanied by one or more framework options.
 
 For relatively simple applications (as is the case of our websites) and considering the back end in isolation, there is
 no strong technical advantage to any one programming language, as long as good implementation practices are followed.
