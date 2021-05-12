@@ -42,18 +42,7 @@ maintenance work and for any future changes or additions.
 Adhering to a uniform modern stack would also greatly facilitate recruitment, and reduce onboarding time both for new
 developers and for developers switching internally from working in one project to another.
 
-### Modern industry standards on technology stack
-
-#### A brief necessary note on web systems
-
-In broad and simple physical terms, a web system is composed of two connected machines: the client's computer, and a
-server hosted by a provider at a remote location.
-
-Just as there are two physical machines, there are two corresponding parts for the software system: front and back.
-
-The front end is the interface that a user can see and interact with in the browser.  
-The back end is all else: the application logic that is executed on the remote server, and any data that is stored in a
-database.
+### Modern industry standards for technology stack
 
 #### Front end
 
@@ -61,7 +50,8 @@ Regarding the front end, there is only one programming language currently suppor
 
 JavaScript offers many options of frameworks for front end development.
 
-The market leader is [React](https://reactjs.org/). React already has the largest market share, and is still trending
+The market leader is [React](https://reactjs.org/).  
+React already has the largest market share, and is still trending
 toward even greater dominance.
 
 Companies that use React:
@@ -93,7 +83,7 @@ Implementing all of our software systems in a uniform language will provide subs
 time, facilitating recruitment, and reducing onboarding time externally and internally, as already noted.
 
 JavaScript offers many options of frameworks for back end development, but there is a clear market
-leader: [Node.js](https://nodejs.org/en/)
+leader: [Node.js](https://nodejs.org/en/).
 
 Companies that use Node.js:
 
