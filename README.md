@@ -34,7 +34,7 @@ Several of our websites and pages are currently at "needs improvement" and "poor
 
 (insert images here)
 
-### Opportunities for improvement in efficiency of maintenance and future sotware development
+### Opportunities for improvement in efficiency for software development projects
 
 Our websites have been constructed as a patchwork of several programming languages and frameworks: Python, Django, PHP,
 Bolt, JavaScript, Bootstrap, Vue.js, etc.
