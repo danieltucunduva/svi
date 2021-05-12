@@ -4,11 +4,11 @@ May 11, 2021
 
 ## Desired outcomes
 
-* **Bring the Core Web Vitals score of all our websites and pages to "Good".**  
+* **1) Bring the Core Web Vitals score of all our websites and pages to "Good".**  
   <br>
-* **Simplify, increase efficiency, reduce development time, maintenance time and onboarding time for software development projects.**  
+* **2) Simplify, increase efficiency, reduce development time, maintenance time and onboarding time for software development projects.**  
   <br>
-* **Allow the marketing department to easily and directly make visual changes to our websites.**  
+* **3) Allow the marketing department to easily and directly make visual changes to our websites.**  
 
 ## Key findings
 
