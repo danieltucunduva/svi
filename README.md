@@ -127,6 +127,6 @@ Companies that use WebFlow:
 
 ## Recommendations  
 
-* **Re-write our websites using React, Node.js and WebFlow following best practices.**    
+1) **Re-write our websites using React, Node.js and WebFlow following best practices.**    
   <br>
-* **Use this technology stack for all other software projects, and gradually migrate legacy systems.**  
+2) **Use this technology stack for all other software projects, and gradually migrate legacy systems.**  
