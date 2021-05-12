@@ -8,8 +8,7 @@ May 11, 2021
   <br>
 * **Simplify, increase efficiency, reduce development time, maintenance time and onboarding time for software development projects.**  
   <br>
-* **Allow the marketing department to easily and directly make visual changes to our websites without assistance from
-  software developers.**  
+* **Allow the marketing department to easily and directly make visual changes to our websites.**  
 
 ## Key findings
 
